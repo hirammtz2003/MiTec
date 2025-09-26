@@ -312,3 +312,10 @@ nav li a:hover {
                 overflow-x: auto;
             }
         }
+
+/* faq */
+
+.fondo-blanco{
+    background-color: #e6f7ff;
+    padding: 10px;
+}
